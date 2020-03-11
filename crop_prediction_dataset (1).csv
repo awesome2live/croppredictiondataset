@@ -1,0 +1,24 @@
+﻿Crop,Soil,Fertility Level,Rabi/Kharif/Yearly,Growth duration(in days),Region grown in Maharashtra,ph,Air temp(in degree celcius),Rainfall(in cm),Water needed(in mm/decade),Moisture(in %),Humidity(in %),Sunshine(in hours),GDD( in degree celcius),Zone
+Wheat,"Loam soil ,Clay, Sandy soil",,Rabi,,"Nashik, Jalgaon, Wardha, Buldana, Solapur, Yavatmal, Aurangabad, Washim, Nagpur",6.0-7.0,21-24,100,130.7-136.7,18-20,50-60,,21,"Western Drought prone area, Central Vidharbha Moderate rainfall, "
+Rice,"Clay loam, Clay Soil",Alluvial soil,Kharif,90-110,"Kudal, Nandurbar, Thane, Sangli, Dhule, Ratnagiri, Kolhapur, Pune, Nashik, Satara",6,20-27,175-300,900-250,,60-80,,23,"High Rainfall, Western ghat mountain zone, Transition zone(1), Transition zone(2), "
+Jowar,Sandy loam,,Kharif,100-120,"Gadchiroli, Yavatmal, Nanded, Beed, Chandrapur, Latur, Parbhani, Solapur, Osmanabad, Satara, Sangli, Pune, Aurangabad,Nashik, Dhule, Ahmadnagar, Buldana, Nagpur, Jalgaon",6.0-7.5,26-33,45,450-650,,60-70,3.0-5.0,26,"Western ghat mountain zone, Transition zone(1), Transition zone(2), Western drought prone area, Central Vidharbha Moderate rainfall,  Eastern Vidharbha High rainfall "
+Maize,Clay Soil,,Kharif,,"Nashik, Aurangabad, Jalgaon, Jalna, Buldana",5.8-6.8,25-33,60-110,500-800,,55,3.0-5.0,26,Western Drought prone area
+Bajra,Sandy loam,,Kharif,,"Nashik, Ahmadnagar, Pune,Nagpur",14,30-32,40-75,900-1000,,,6,25,"Western ghat mountain zone, Transition zone(1) "
+Soyabean,"Sand, Silt, Clay",,Kharif,90-120,"Satara, Sangli, Kolhapur, Solhapur, Pune, Ahmadnagar",6.3-3.5,29,,450-700,8.4-9.5,,6,24,"Transition zone(1), Transition zone(2), Western drought prone area"
+Gram,Loam soil ,,Rabi,145,"Amravati, Akola, Ahmadnagar, Hingoli, Washim, Buldana, Latur, Osmanabad, Nagpur, Jalgaon, Nanded",6.5-7.5,20-25,,600-750,8.0-9.0,18-20,11.5,22,"Transition zone(1),  Western drought prone area, Central Vidharbha moderate rainfall,  Eastern Vidharbha high rainfall"
+Sugarcane,,"red volcanic soil, alluvial soil",Kharif,365-450,"Nandurbar, Dhule, Jalgaon, Buldana, Nashik, Aurangabad, Hingoli, Parbhani, Nanded, Beed, Latur, Osmanabad, Solapur, Ahmednagar, Pune, Satara, Sangli, Kolhapur, Kudal, Nagpur, Amravati",5.0-8.5,112-116,,1100-1500,,80-85,,67,"Western ghat mountain zone, Transition zone(1), Transition zone(2), Western drought prone area"
+Sunflower,"Loam, Silt loam, Silty clay",,"Rabi, Kharif",80-120,,6.0-7.5,70-78,50-100,1500-2500,18-20,80-90,,48,
+Coarse cereals,Sandy coarse,,Kharif,150,,6.0-8.5,15-20,50-80,,18-25,,,19,
+Groundnut,"Sandy loam, Sandy clay loam",,Kharif,110-130,"Kolhapur, Satara, Pune, Dhule, Sangli",6.5-7.0,35,60-150,500-700,60,65,4,27,"Western ghat mountain zone, Transition zone(1), Transition zone(2), Wesern drought prone area"
+Seasame,Sandy loam,,,90-150,,5.5-8.0,25-35,20-26,,6,100,12.0-14.0,27,
+Tur(arhal),"Loam, Sandy loam",,Kharif,120-180,,6.5-7.5,16-21,60-140,100,9.0-10,30,,20,
+Castor,Sandy loam,,"Rabi, Kharif",140-180,,6,18,50-80,500-800,30-60,40,,18,
+Lentil(Masur),"Sandy loam, Clay loam",,Rabi,80-110,,7,45,35-55,350-550,14,15,,32,
+Rapeseed and mustard,Loam,Well drained,,110-140,,4.3-8.5,45,50-420,80-240,9.5,25-35,4.0-8.0,32,
+Oilseed,Loamy soil,,Kharif,,,6.5,<5,50-70,90,7.0-9,,,12,
+Lineseed,"Silty loam, Clay loam, Silty clay",,Rabi,120-140,,5.0-7.0,10.0-38,,155-200,8,10,16,28,
+Tobacco,"Clay, Loam",,Rabi,90,,5.5-6.5,15-20,50-100,,70-30,,,19,
+Cotton,"Sand, Loam, Loam sand",,,180-240,"Gadchiroli, Wardha, Nagpur, Yavatmal, Amravati, Akola, Washim, Hingoli, Nanded, Parbhani, Beed, ",5.5-8.0,21-38,85-110,700-1300,6.5-8,15,,28,"Central Vidharbha moderate rainfall, Eastern Vidharbha high rainfall"
+Ragi,Loam,Shallow soil,,90-150,"Ratnagiri, Raigad",,27,70-120,700-1200,,,,23,"High rainfall, Moderate rainfall"
+Jute,"Sandy loam, Clay loam",,,100-110,,6.0-7.5,17-41,120,,18-20,40-90,,30,
+Millet,,,,65-75,"Nagpur, Wardha, Yavatmal, Chandrapur, Akola, Washim, Amravati",5.5-6.5,,35,50,25-30,,,,"Central Vidharbha moderate rainfall, "
